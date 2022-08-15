@@ -6,7 +6,7 @@ import os
 
 
 login = 'postgres'
-password = 'f0h1xoYe'
+password = '********'
 adress_srv = 'localhost'
 port_srv = '5432'
 db_name = 'HW10'
